@@ -7,11 +7,11 @@ I’m passionate about creating programs and games that support **mental health 
 
 ---
 
-🎯 Featured Project: [Reddit Mental Health Analysis](*link coming soon*) (link coming soon) 
+🎯 Featured Project: Reddit Mental Health Analysis (link coming soon)
 **What I Did:** Analyzed data from depression and mental health subreddits to detect mental health crisis language
 **Tools:** Python, Pandas, Matplotlib, Google Colab
 **Result:** Coming soon!
-**Curious?** See the full project here → (*link your project README*)  (link coming soon) 
+**Curious?** See the full project here → (link coming soon)
 
 ---
 
@@ -25,17 +25,17 @@ I’m passionate about creating programs and games that support **mental health 
 🚀 Projects:  
 A few other noteworthy projects I’ve worked on:  
 
-- 🕹️ [Alien Invasion Defense](*link your project README*)  
+- 🕹️ [Alien Invasion Defense](https://github.com/emmakatz06/alienInvasion/blob/main/README.md)  
   Created a **NetLogo game** where players defend against alien waves.  
   *Tech Stack:* NetLogo  
   *Learnings:* Game mechanics, interactive simulation design  
 
-- 🌤️ [Weather AI](*link your project README*)  
+- 🌤️ [Weather AI](https://github.com/drod75/inner-wind/blob/main/README.md)  
   A **Flask web app** that displays live weather data with a clean and responsive UI.  
   *Tech Stack:* Python, Flask, HTML, CSS  
   *Learnings:* API integration, front-end design, teamwork
   
-- 📊 [World Happiness Report ML Project](*link your project README*)  
+- 📊 [World Happiness Report ML Project] (https://github.com/emmakatz06/lab8assignment)
   Built and compared multiple machine learning models to **predict national happiness scores (Life Ladder)** using the World Happiness Report dataset.  
   *Tech Stack:* Python, Pandas, scikit-learn, Matplotlib, Seaborn  
   *Learnings:* Data cleaning, feature selection, regression modeling, and evaluation  
