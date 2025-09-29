@@ -1,51 +1,61 @@
-# Hi, I'm Emma! 👋
+👋 Hi, I'm Emma!  
 
-### 🎓 About Me  
-I’m a rising sophomore at **Brooklyn College**, double majoring in **Computer Science** and **Psychology**.  
-I aspire to build **programs and games that support mental health** by combining creativity, technology, and research.  
+🎓 A sophomore at **Brooklyn College**, pursuing a dual degree in **Computer Science and Psychology**  
+🔭 Aspiring Software Engineer, Game Developer, and Mental Health Technology Enthusiast  
 
-I’m especially interested in:  
-- 🧠 **Data Science & AI for Psychology** (mental health applications, behavioral analysis)  
-- 🎮 **Game Development** (interactive storytelling, UX design)  
-- 💻 **Software Engineering** (web apps, full-stack projects)  
+I’m passionate about creating programs and games that support **mental health and well-being**. By combining creativity, psychology, and computer science, I hope to design programs that make a real difference for people struggling with mental health problems. Currently, I’m focusing on building my fall studio AI project as part of my Break Through Tech fellowship to strengthen my technical and team skills. 
 
 ---
 
-### 📂 Featured Projects  
-
-#### 🕹️ [Alien Invasion Defense](https://github.com/your-username/alien-invasion-defense)  
-A **NetLogo game** where players defend against waves of aliens.  
-*Focus:* Game design, interactive simulation.  
-
-#### 📊 [Reddit Mental Health Analysis](https://github.com/your-username/reddit-mental-health-analysis)  
-Analyzed **depression vs. control subreddits** to explore posting patterns, comment ratios, and keyword themes.  
-*Focus:* Data science, content analysis, visualization.  
-
-#### 🌤️ [Weather App](https://github.com/your-username/weather-app)  
-A **Flask web app** that displays live weather data with a clean and responsive UI.  
-*Focus:* Python, Flask, API integration, front-end design.  
+🎯 Featured Project: [Reddit Mental Health Analysis](*link coming soon*) (link coming soon) 
+**What I Did:** Analyzed data from depression and mental health subreddits to detect mental health crisis language
+**Tools:** Python, Pandas, Matplotlib, Google Colab
+**Result:** Coming soon!
+**Curious?** See the full project here → (*link your project README*)  (link coming soon) 
 
 ---
 
-### 📊 GitHub Stats  
-![Emma's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
+🛠 Tech Stack:  
+**Languages:** Python
+**Data Science:** Pandas, NumPy, Matplotlib  
+**Tools:** Git, GitHub, Google Colab
 
 ---
 
-### 📩 How to Reach Me  
+🚀 Projects:  
+A few other noteworthy projects I’ve worked on:  
+
+- 🕹️ [Alien Invasion Defense](*link your project README*)  
+  Created a **NetLogo game** where players defend against alien waves.  
+  *Tech Stack:* NetLogo  
+  *Learnings:* Game mechanics, interactive simulation design  
+
+- 🌤️ [Weather AI](*link your project README*)  
+  A **Flask web app** that displays live weather data with a clean and responsive UI.  
+  *Tech Stack:* Python, Flask, HTML, CSS  
+  *Learnings:* API integration, front-end design, teamwork
+  
+- 📊 [World Happiness Report ML Project](*link your project README*)  
+  Built and compared multiple machine learning models to **predict national happiness scores (Life Ladder)** using the World Happiness Report dataset.  
+  *Tech Stack:* Python, Pandas, scikit-learn, Matplotlib, Seaborn  
+  *Learnings:* Data cleaning, feature selection, regression modeling, and evaluation  
+  *Result:* Random Forest Regressor achieved the best performance with **R² = 0.86** and **RMSE = 0.41**, revealing key socioeconomic factors influencing well-being
+
+---
+
+📫 How to Reach Me:  
 📧 **Email:** [emma.katz06@gmail.com](mailto:emma.katz06@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/emma-katz06](https://www.linkedin.com/in/emma-katz06/)  
 
 ---
 
-### ✅ Highlights  
-- Public repositories with clear documentation  
-- Projects aligned with **CS + Psychology** interests  
-- Clean writing and free of grammatical errors  
-- Customized toward **data science & game development**  
-- Growing GitHub activity and contributions  
+📊 GitHub Stats: [![Emma's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmakatz06)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
+✨ Fun Fact:  
+Outside of my studies, I am a very creative person that loves to do things with my hands!! You'll often find me making bracelets or drawing to unwind after a long day!
+
 
 
 
