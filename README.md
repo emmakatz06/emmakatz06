@@ -7,18 +7,18 @@ I’m passionate about creating programs and games that support **mental health 
 
 ---
 
-### 🎯 Featured Project: *Reddit Mental Health Analysis* (link coming soon)  
-**What I Did:** Analyzed data from depression and mental health subreddits to detect mental health crisis language  
+### 🎯 Featured Project: *Reddit Mental Health Analysis* 
+**What I Did:** Cleaned and combined the data from depression and mental health subreddits, performed content analysis, documented challenges such as represenation bias, labeled part of the data, used recall as an evaluation metric for the data, and presented the progress and final product to other teams, and our challenge advisor and coach.
 **Tools:** Python, Pandas, Matplotlib, Google Colab  
-**Result:** Coming soon!  
-**Curious?** See the full project here → (link coming soon)  
+**Result:** We successfully built a machine learning classifier to detect crisis-related language in Reddit mental health posts
+**Curious?** See the full project here → https://github.com/Tahiyatt/Detecting-Crisis-Language-in-Mental-Health-Posts 
 
 ---
 
 ### 🛠 Tech Stack  
 **Languages:** Python  
 **Data Science:** Pandas, NumPy, Matplotlib  
-**Tools:** Git, GitHub, Google Colab  
+**Tools:** Git, GitHub, Google Colab, Microsoft Excel  
 
 ---
 
