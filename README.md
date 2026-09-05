@@ -47,7 +47,6 @@ A few other noteworthy projects I’ve worked on:
 ---
 
 ### 📫 How to Reach Me  
-📧 **Email:** [emma.katz06@gmail.com](mailto:emma.katz06@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/emma-katz06](https://www.linkedin.com/in/emma-katz06/)  
 
 ---
